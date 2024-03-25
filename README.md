@@ -5,7 +5,7 @@ Bluetooth One Hand Clicky Keyboard
 
 This wireless keyboard with only four keys allows for wireless typing on laptops, phones and tablets. This subtle interface is CircuitPython based. It uses morse code '.' and '-' with a lookup table to translate characters.
 
-The lookup code from Crysknife's excellent [morsePico project](https://github.com/Crysknife007/morsePico/blob/main/code.py). 
+The morse code to ascii character is from Crysknife's excellent [morsePico project](https://github.com/Crysknife007/morsePico/blob/main/code.py). 
 
 ![Screenshot](ble-mc-neo-3.jpeg)
 
