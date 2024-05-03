@@ -7,6 +7,12 @@ This wireless four key keyboard allows for typing on laptops, phones and tablets
 
 <pre>
 Features:
+
+* Built-in USB-C charger
+* 420mAh charger
+* Wireless BLE v5.x
+* Each key has a NeoPixel LED
+
 * Key1: '.'    # dot
 * Key2: '-'    # dash
 * Key3: ' '    # will do a space between words or show the morse code buffer contents
