@@ -5,11 +5,13 @@ Bluetooth One Hand Morse Code Keyboard
 
 This wireless four key keyboard allows for typing on laptops, phones and tablets. This subtle interface is CircuitPython based. It uses morse code '.' and '-' with a lookup table to translate characters.
 
+<pre>
 Features:
 * Key1: '.'    # dot
 * Key2: '-'    # dash
 * Key3: ' '    # will do a space between words or show the morse code buffer contents
 * Key4: <SEND> # translates morse code sequence to ascii sends ascii over BLE
+</pre>
 
 ![Screenshot](ble-mc-neo-7.jpeg)
 
