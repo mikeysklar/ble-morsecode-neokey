@@ -10,7 +10,7 @@ Features:
 * Key1: '.'    # dot
 * Key2: '-'    # dash
 * Key3: ' '    # will do a space between words or show the morse code buffer contents
-* Key4: <SEND> # translates morse code sequence to ascii sends ascii over BLE
+* Key4: *SEND* # translates morse code sequence to ascii sends ascii over BLE
 </pre>
 
 ![Screenshot](ble-mc-neo-7.jpeg)
