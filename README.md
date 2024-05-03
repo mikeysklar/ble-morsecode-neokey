@@ -1,9 +1,11 @@
 # ble-morsecode-neokey
 Bluetooth One Hand Morse Code Keyboard
 
-![Screenshot](pics/ble-mc-neo-1.jpeg)
+![Screenshot](pics/ble-mc-neo-8.jpeg)
 
 This wireless four key keyboard allows for typing on laptops, phones and tablets. This subtle interface is CircuitPython based. It uses morse code '.' and '-' with a lookup table to translate characters.
+
+![Screenshot](pics/ble-mc-neo-1.jpeg)
 
 <pre>
 Features:
