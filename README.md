@@ -11,6 +11,7 @@ Features:
 * Key3: ' '    # will do a space between words or show the morse code buffer contents
 * Key4: <SEND> # translates morse code sequence to ascii sends ascii over BLE
 
+![Screenshot](ble-mc-neo-7.jpeg)
 
 
 The morse code to ascii character is from Crysknife's excellent [morsePico project](https://github.com/Crysknife007/morsePico/blob/main/code.py). 
