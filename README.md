@@ -1,9 +1,17 @@
 # ble-morsecode-neokey
-Bluetooth One Hand Clicky Keyboard
+Bluetooth One Hand Morse Code Keyboard
 
 ![Screenshot](ble-mc-neo-1.jpeg)
 
 This wireless four key keyboard allows for typing on laptops, phones and tablets. This subtle interface is CircuitPython based. It uses morse code '.' and '-' with a lookup table to translate characters.
+
+Features:
+* Key1: '.'
+* Key2: '-'
+* Key3: ' '    # will do a space between words or show the morse code buffer contents
+* Key4: <SEND> # translates morse code sequence to ascii sends ascii over BLE
+
+
 
 The morse code to ascii character is from Crysknife's excellent [morsePico project](https://github.com/Crysknife007/morsePico/blob/main/code.py). 
 
